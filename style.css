@@ -2,8 +2,8 @@ body{
    background-color:lightblue;
  }
 
- label{
-      align-text : center;
+ t1,p{
+      text-align : center;
       color:red;
 }
  
