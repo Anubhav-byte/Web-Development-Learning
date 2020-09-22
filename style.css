@@ -2,7 +2,7 @@ body{
    background-color:lightblue;
  }
 
- t1,p{
+ #t1,#p{
       text-align : center;
       color:red;
 }
