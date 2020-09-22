@@ -2,7 +2,8 @@ body{
    background-color:lightblue;
  }
 
- .container{
+ label{
+      align-text : center;
       color:red;
 }
  
