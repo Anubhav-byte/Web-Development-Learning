@@ -1,16 +1,23 @@
 body{
-   background-color:lightblue;
+   background-image:url("background.png");
+   background-repeat: repeat-x;
+
    text-align: center;
+
  }
 
 
-  
+
 
  #t,#p{
-      background-color: yellow;
-      border: 2px solid Tomato;
+      background-color: white;
+      opacity: 1;
+      border: 2px black;
       text-align : center;
-      color:red;
-      
+      color:green;
+
 }
- 
+#s,#r{
+    background-color: lightblue;
+
+}
