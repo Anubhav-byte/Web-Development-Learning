@@ -7,6 +7,7 @@ body{
   
 
  #t,#p{
+      background-color: yellow;
       border: 2px solid Tomato;
       text-align : center;
       color:red;
